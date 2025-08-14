@@ -1,0 +1,84 @@
+body{
+    background-image:url(joyful_star_background_800_wht.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+        margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
+.a{
+    margin:auto;
+    height: 440px;
+    width: 400px;
+    background-color: rgba(252, 218, 27, 0.272);
+    border-radius: 20px;
+    margin-top: 110px;
+}
+.b{
+    display: inline-block;
+    border: dotted 1.5px rgb(229, 255, 0);
+    background-image:url() ;
+    border-radius: 80px;
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.c{
+    color: rgb(255, 157, 0);
+    margin-top: -10px;
+    font-size: 25.95px;
+}
+.d{
+    display: inline-block;
+    color: chocolate;
+    font-size: 28px;
+    margin-bottom: 0%;
+    padding-bottom: 10px;
+}
+.e {
+    display: flex;
+    align-items: center; 
+    gap: 12px; 
+}
+.par{
+    font-size: 24px;
+    color:rgb(150, 3, 32);
+    margin-top: -10px;
+    margin: -20px 15px 0px 15px;
+    text-align: center;
+      line-height: 1.5; 
+}
+.bold{
+    color:rgb(150, 3, 32) ;
+    font-size:23px;
+}
+.github {
+    width: 60px;
+    height: 60px;
+    border-radius:40px; 
+}
+.linkedin{
+    width: 100px;
+    height: 100px;
+    border-radius:40px; 
+}
+.image{
+    margin: 10px 85px;
+    display: flex;
+    align-items: center; 
+    gap: 8px; 
+}
+#hi{
+    font-size: 10px;
+    margin-top: 0%;
+}
+.sololearn{
+        width: 61px;
+    height: 61px;
+    border-radius:40px; 
+}
+
